@@ -22,9 +22,9 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
   <br/>
 
-  ### Software used
-  - Verilog(FPGA)
-  - Cadence
+  ### Software I have experience with
+  - Verilog(FPGA), Design compiler, ModelSim
+  - Cadence PSPICE
   - ADS(Keysight PathWave Advanced Design System)
   - Fusion 360
   - MATLAB
